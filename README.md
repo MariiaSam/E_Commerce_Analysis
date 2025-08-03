@@ -1,19 +1,23 @@
-# Marketing_Retail_Analyst
-Advanced Marketing and Retail Analyst E-comerce 
+# E-Commerce Analysis
 
+[kaggle](https://www.kaggle.com/datasets/fahmidachowdhury/e-commerce-sales-analysis)
 
-https://www.kaggle.com/datasets/sohyunjun0401/advanced-marketing-and-retail-analyst-e-comerce
+# Description:
 
-https://www.kaggle.com/datasets/quangvinhhuynh/marketing-and-retail-analyst-e-comerce
+Explore a comprehensive dataset of e-commerce sales, encompassing a variety of product categories, pricing, customer reviews, and sales trends over the past year. This dataset is ideal for analyzing market trends, customer behavior, and sales performance. Explore into the data to uncover insights that can optimize product listings, pricing strategies, and marketing campaigns.
 
-## About Dataset
+# Columns:
 
-This dataset pertains to the retail segment of an e-commerce platform's sales channel
+product_id: Unique identifier for each product.
+product_name: Name of the product.
+category: Product category.
+price: Price of the product.
+review_score: Average customer review score (1 to 5).
+review_count: Total number of reviews.
+sales_month_1 to sales_month_12: Monthly sales data for each product over the past year.
+Potential Analyses:
 
-To generate the most accurate report, consider the following:
-
-Compare revenue and profit with the corresponding periods of the previous month and year to formulate an effective marketing strategy.
-
-Identify top-performing products based on profit. Conduct a detailed analysis of these products.
-
-Evaluate products with growth potential for future development
+Identify top-performing product categories.
+Analyze the impact of pricing on sales and customer reviews.
+Discover seasonal sales trends and patterns.
+Evaluate customer satisfaction based on review scores and counts.
